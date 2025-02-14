@@ -1,0 +1,21 @@
+site_name: Alquiler Piso en Sonseca
+site_description: Página web para el alquiler de un piso en Sonseca (Toledo), donde se publicarán fotos y videos del mismo.
+site_author: Usuario
+
+extra_css:
+  - extra.css
+
+plugins:
+  - search  
+  - blog:
+      archive: true
+      archive_toc: true
+      archive_name: Archive
+      archive_date_format: yyyy/MM
+      archive_url_date_format: yyyy/MM
+      archive_url_format: "{date}"
+
+nav:
+  - Descripcion: index.md
+  - Fotos: fotos.md
+  - Disclaimer: disclaimer.md
