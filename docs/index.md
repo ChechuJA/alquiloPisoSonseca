@@ -18,6 +18,8 @@
 - **Centro del Pueblo**: El piso se encuentra en el centro del pueblo, donde se realizan todas las actividades lúdicas y festivas.
 - **Ascensor**: El edificio cuenta con un ascensor que va desde el garaje hasta el segundo (último) piso donde está ubicado el piso.
 
+Para ver fotos del piso, visita la [galería de fotos](fotos.md).
+
 ## Mobiliario Nuevo
 
 - **Grifería de Baño y Tapa del Wáter**: Recientemente renovados para ofrecer mayor comodidad y funcionalidad.
