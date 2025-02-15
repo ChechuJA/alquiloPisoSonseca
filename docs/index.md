@@ -2,6 +2,10 @@
 
 ¡Bienvenidos a la página de alquiler del piso en Sonseca! Este encantador hogar está especialmente orientado a profesores que buscan un lugar tranquilo y cómodo para vivir.
 
+## Contacto
+
+Para más información, por favor contacta al +34 691 35 59 51.
+
 ## Características del Piso
 
 - **Habitación Principal**: Cuenta con una cama de matrimonio, ideal para descansar plácidamente.
@@ -25,7 +29,3 @@ Para ver fotos del piso, visita la [galería de fotos](fotos.md).
 - **Grifería de Baño y Tapa del Wáter**: Recientemente renovados para ofrecer mayor comodidad y funcionalidad.
 - **Muebles de Habitaciones y Salón**: Todos los muebles de las habitaciones y el salón son nuevos, proporcionando un ambiente moderno y acogedor.
 - **Colchón y Almohadas**: Nuevos y de alta calidad, garantizando un descanso óptimo.
-
-## Contacto
-
-Para más información, por favor contacta al +34 691 35 59 51.

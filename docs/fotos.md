@@ -26,6 +26,7 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ### Cocina
 ![Cocina](images/Cocina.png)
 ![Cocina](images/Cocina1.png)
+![Cocina](images/Cocina2.png)
 
 ### Baño
 ![Baño](images/Bano.png)
@@ -33,13 +34,14 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Baño](images/Bano2.png)
 
 ### Habitación Principal
-![Habitación Principal](images/habitacion_principal.png)
+![Habitación Principal](images/Habitacion.jpeg)
 
 ### Patio Interior
-![Patio Interior](images/patio_interior.png)
+![Patio Interior](images/Patio.jpeg)
 
 ### Despacho
-![Despacho](images/Despacho.png)
+![Despacho](images/Despacho.jpeg)
 
 ### Pasillo
-![Pasillo](images/Pasillo.png)
+![Pasillo](images/Pasillo.jpeg)
+![Pasillo](images/Pasillo1.jpeg)
