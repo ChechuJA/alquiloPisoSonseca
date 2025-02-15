@@ -21,7 +21,7 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 
 ### Salón
 ![Salón](images/Salon.png)
-![Salón](images/Salon2.png)
+![Salón](images/Salon1.png)
 
 ### Cocina
 ![Cocina](images/Cocina.png)
@@ -40,8 +40,9 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Patio Interior](images/Patio.jpeg)
 
 ### Despacho
-![Despacho](images/Despacho.jpeg)
+![Despacho](images/Despacho.png)
+![Despacho](images/Despacho1.jpeg)
 
 ### Pasillo
-![Pasillo](images/Pasillo.jpeg)
+![Pasillo](images/Pasillo.png)
 ![Pasillo](images/Pasillo1.jpeg)
