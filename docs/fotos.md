@@ -15,23 +15,23 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ## Galería de Fotos
 
 ### Terraza
-![Terraza](images/Terraza.jpg)
-![Terraza](images/Terraza1.png)
-![Terraza](images/Terraza2.png)
+![Terraza](images/Terraza.jpeg)
+![Terraza](images/Terraza1.jpeg)
+![Terraza](images/Terraza2.jpeg)
 
 ### Salón
-![Salón](images/Salon.png)
-![Salón](images/Salon1.png)
+![Salón](images/Salon.jpeg)
+![Salón](images/Salon1.jpeg)
 
 ### Cocina
-![Cocina](images/Cocina.png)
-![Cocina](images/Cocina1.png)
-![Cocina](images/Cocina2.png)
+![Cocina](images/Cocina.jpeg)
+![Cocina](images/Cocina1.jpeg)
+![Cocina](images/Cocina2.jpeg)
 
 ### Baño
-![Baño](images/Bano.png)
-![Baño](images/Bano1.png)
-![Baño](images/Bano2.png)
+![Baño](images/Bano.jpeg)
+![Baño](images/Bano1.jpeg)
+![Baño](images/Bano2.jpeg)
 
 ### Habitación Principal
 ![Habitación Principal](images/Habitacion.jpeg)
@@ -40,9 +40,9 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Patio Interior](images/Patio.jpeg)
 
 ### Despacho
-![Despacho](images/Despacho.png)
+![Despacho](images/Despacho.jpeg)
 ![Despacho](images/Despacho1.jpeg)
 
 ### Pasillo
-![Pasillo](images/Pasillo.png)
+![Pasillo](images/Pasillo.jpeg)
 ![Pasillo](images/Pasillo1.jpeg)
