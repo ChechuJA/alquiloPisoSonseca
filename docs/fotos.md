@@ -25,8 +25,8 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 
 ### Cocina
 ![Cocina](images/Cocina.jpeg)
-![Cocina](images/Cocina1.jpeg)
-![Cocina](images/Cocina2.jpeg)
+<!-- ![Cocina](images/Cocina1.jpeg) -->
+<!-- ![Cocina](images/Cocina2.jpeg) -->
 
 ### Baño
 ![Baño](images/Bano.jpeg)
