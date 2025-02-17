@@ -46,3 +46,6 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ### Pasillo
 ![Pasillo](images/Pasillo.jpeg)
 ![Pasillo](images/Pasillo1.jpeg)
+
+### Ascensor
+![Ascensor](images/Ascensor.jpeg)
