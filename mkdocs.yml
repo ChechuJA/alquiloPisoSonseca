@@ -18,4 +18,5 @@ plugins:
 nav:
   - Descripcion: index.md
   - Fotos: fotos.md
+  - Preguntas frecuentes: FAQ.md
   - Disclaimer: disclaimer.md
