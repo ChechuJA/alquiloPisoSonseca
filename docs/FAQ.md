@@ -2,6 +2,10 @@
 
 Estas son preguntas genéricas y las condiciones pueden ser discutidas y ajustadas con el propietario.
 
+## 0. Bienes opcionales.
+
+Los enseres personales, como sábanas, nordicos, mantas, toallas y otros artículos similares, no están incluidos en el alquiler ya que cada inquilino suele traer los suyos propios. Sin embargo, estos artículos podrán comprarse en el momento de la firma del contrato si así lo desean.
+
 ## 1. Condiciones generales
 
 **¿Cuál es el precio del alquiler y qué incluye?**
@@ -16,6 +20,9 @@ No, no hay comisión de agencia.
 **¿Cuánto dura el contrato de alquiler?**
 El contrato de alquiler tiene una duración mínima que podremos establecer entre ambas partes.
 
+**¿Que dias se paga el alquiler?**
+Se deberá abonar por anticipado.
+
 **¿Se permite la ampliar del contrato?**
 Si se permite la ampliación del contrato.
 
@@ -26,6 +33,9 @@ Sí, el piso está completamente amueblado.
 
 **¿Qué electrodomésticos incluye?**
 Puedes traer los tuyos, si no, incluye nevera, lavadora, horno, microondas y lavavajillas.
+
+**¿Tiene Televisión?**
+No hay televisión puesta porque cada inquilino suele traer la suya, pero se podria poner una en el momento de firma del contrato.
 
 **¿Hay conexión a internet?**
 Sí, hay conexión a internet disponible. Revisando si podria ponerse fibra.
@@ -47,10 +57,10 @@ La luz está con Iberdrola y el agua con Aqualia. Es conveniente mantener los mi
 ## 5. Normas y convivencia
 
 **¿Se permiten mascotas?**
-No, no se permiten mascotas.
+Se puede valorar.
 
 **¿Se puede fumar dentro del piso?**
-No, no se puede fumar dentro del piso.
+Se puede valorar. Prefiriendo no fumar dentro de él.
 
 **¿Cuáles son las normas de la comunidad?**
 Las normas de la comunidad incluyen respetar los horarios de silencio y mantener las áreas comunes limpias.
@@ -72,7 +82,8 @@ Si se rompe un electrodoméstico, el propietario se encargará de repararlo o re
 Se debe avisar con al menos un mes de antelación.
 
 **¿Cómo se devuelve la fianza?**
-La fianza se devuelve una vez comprobado que no hay daños en el piso.
+La fianza se devuelve una vez comprobado que no hay daños en el piso. Y no será objeto de pago del último mes de contrato.
 
 **¿Qué ocurre si el inquilino quiere irse antes de finalizar el contrato?**
-Si el inquilino quiere irse antes de finalizar el contrato, deberá pagar una penalización equivalente a un mes de alquiler.
+Si el inquilino quiere irse antes de finalizar el contrato, deberá pagar una penalización equivalente a un mes de alquiler, si no hemos llegado a un acuerdo previo.
+
