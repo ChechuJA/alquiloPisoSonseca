@@ -29,10 +29,10 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 <!-- ![Cocina](images/Cocina2.jpeg) -->
 
 ### Baño
-<!-- ![Baño](images/Bano3.jpeg) -->
 ![Baño](images/Bano.jpeg)
 ![Baño](images/Bano1.jpeg)
-
+![Baño](images/Bano3.jpeg)
+![Baño](images/Bano4.jpeg)
 
 ### Habitación Principal
 ![Habitación Principal](images/Habitacion.jpeg)
