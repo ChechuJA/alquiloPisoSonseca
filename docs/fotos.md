@@ -41,8 +41,9 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Patio Interior](images/Patio.jpeg)
 
 ### Despacho
-![Despacho](images/Despacho.jpeg)
+<!-- ![Despacho](images/Despacho.jpeg) -->
 ![Despacho](images/Despacho1.jpeg)
+![Despacho](images/Despacho2.jpeg)
 
 ### Pasillo
 ![Pasillo](images/Pasillo.jpeg)
