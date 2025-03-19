@@ -15,13 +15,13 @@ Ven a verlo y te lo cuento, incluye los gastos de comunidad.
 Sí, se requiere una fianza de un mes de alquiler.
 
 **¿Hay que pagar comisión de agencia?**
-No, no hay comisión de agencia.
+No, si estás viendo esta web es porque has contactado directamente con el propietario.
 
 **¿Cuánto dura el contrato de alquiler?**
 El contrato de alquiler tiene una duración mínima que podremos establecer entre ambas partes.
 
 **¿Que dias se paga el alquiler?**
-Se deberá abonar por anticipado.
+Se deberá abonar por anticipado, el primer mes y los siguientes entre el 1 y el 3 del mes en curso.
 
 **¿Se permite la ampliar del contrato?**
 Si se permite la ampliación del contrato.
@@ -42,6 +42,15 @@ Sí, hay conexión a internet disponible. Revisando si podria ponerse fibra.
 
 **¿El edificio tiene ascensor?**
 Sí, el edificio cuenta con ascensor.
+
+**¿Tiene aire acondicionado?**
+No, el piso no tiene aire acondicionado. Los anteriores propietarios han vivido durante años y no lo han necesitado debido a la buena orientación del piso. Sin embargo, el propietario no se niega a instalar uno si fuese necesario.
+
+**¿Cómo es la calefacción?**
+La calefacción no es con gas, sino con acumuladores eléctricos. Además, el piso es muy soleado, lo que ayuda a mantener una temperatura agradable durante el invierno.
+
+**¿El salón dispone de ventilador?**
+Sí, el salón dispone de un ventilador en el techo, ideal para refrescar el ambiente durante los días más calurosos.
 
 ## 4. Gastos y suministros
 

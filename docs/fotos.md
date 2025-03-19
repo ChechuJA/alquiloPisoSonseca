@@ -23,10 +23,17 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Salón](images/Salon.jpeg)
 ![Salón](images/Salon1.jpeg)
 
+**¿Qué hay en el salón?**
+Las fotos del salón no están actualizadas, ya que falta incluir el sofá chaise longue y si fuese necesario la televisión.
+
+
 ### Cocina
 ![Cocina](images/Cocina.jpeg)
 <!-- ![Cocina](images/Cocina1.jpeg) -->
 <!-- ![Cocina](images/Cocina2.jpeg) -->
+
+**¿Qué hay en la cocina?**
+Las fotos de la cocina no están actualizadas, ya que falta incluir el frigorífico, la lavadora y el lavavajillas.
 
 ### Baño
 ![Baño](images/Bano.jpeg)
@@ -37,6 +44,10 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ### Habitación Principal
 ![Habitación Principal](images/Habitacion.jpeg)
 
+**¿Qué hay en la habitación principal?**
+La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades. Cabe mencionar que las fotos no están actualizadas, ya que falta añadir una imagen del armario y un espejo grande que tiene, además de las barras de las cortinas.
+
+
 ### Patio Interior
 ![Patio Interior](images/Patio.jpeg)
 
@@ -44,6 +55,9 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 <!-- ![Despacho](images/Despacho.jpeg) -->
 ![Despacho](images/Despacho1.jpeg)
 ![Despacho](images/Despacho2.jpeg)
+
+**¿Qué hay en el despacho?**
+El despacho está equipado con un cómodo sofá cama, ideal para momentos puntuales de visitas. Si fuera muy necesario, se podría convertir en otra habitación para compartir el piso, añadiendo una cama de 90 cm.
 
 ### Pasillo
 ![Pasillo](images/Pasillo.jpeg)
