@@ -22,6 +22,7 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ### Salón
 ![Salón](images/Salon.jpeg)
 ![Salón](images/Salon1.jpeg)
+![Salón](images/sal.jpeg)
 
 **¿Qué hay en el salón?**
 Las fotos del salón no están actualizadas, ya que falta incluir el sofá chaise longue y si fuese necesario la televisión.
@@ -42,7 +43,9 @@ Las fotos de la cocina no están actualizadas, ya que falta incluir el frigoríf
 ![Baño](images/Bano4.jpeg)
 
 ### Habitación Principal
-![Habitación Principal](images/Habitacion.jpeg)
+<!-- ![Habitación Principal](images/Habitacion.jpeg) -->
+![Habitación Principal](images/hab0.jpeg)
+![Habitación Principal](images/hab1.jpeg)
 
 **¿Qué hay en la habitación principal?**
 La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades. Cabe mencionar que las fotos no están actualizadas, ya que falta añadir una imagen del armario y un espejo grande que tiene, además de las barras de las cortinas.
@@ -53,6 +56,7 @@ La habitación principal cuenta con un colchón sin estrenar y dos almohadas ind
 
 ### Despacho
 <!-- ![Despacho](images/Despacho.jpeg) -->
+![Despacho](images/Despacho0.jpeg)
 ![Despacho](images/Despacho1.jpeg)
 ![Despacho](images/Despacho2.jpeg)
 

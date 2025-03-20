@@ -52,6 +52,15 @@ La calefacción no es con gas, sino con acumuladores eléctricos. Además, el pi
 **¿El salón dispone de ventilador?**
 Sí, el salón dispone de un ventilador en el techo, ideal para refrescar el ambiente durante los días más calurosos.
 
+**¿Qué hay en la habitación principal?**
+La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
+
+**¿Qué hay en el despacho?**
+El despacho está equipado con un cómodo sofá cama, ideal para momentos puntuales de visitas. Si fuera muy necesario, se podría convertir en otra habitación para compartir el piso, añadiendo una cama de 90 cm.
+
+**¿El piso incluye plaza de garaje?**
+Sí, el alquiler incluye una plaza de garaje y se puede optar a otra más si fuese necesario.
+
 ## 4. Gastos y suministros
 
 **¿Los gastos de comunidad están incluidos en el alquiler?**
