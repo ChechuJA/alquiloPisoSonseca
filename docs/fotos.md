@@ -48,7 +48,7 @@ Las fotos de la cocina no están actualizadas, ya que falta incluir el frigoríf
 ![Habitación Principal](images/hab1.jpeg)
 
 **¿Qué hay en la habitación principal?**
-La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades. Cabe mencionar que las fotos no están actualizadas, ya que falta añadir una imagen del armario y un espejo grande que tiene, además de las barras de las cortinas.
+La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
 
 
 ### Patio Interior
