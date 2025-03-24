@@ -34,6 +34,8 @@ Las fotos del salón no están actualizadas, ya que falta incluir el sofá chais
 <!-- ![Habitación Principal](images/Habitacion.jpeg) -->
 ![Habitación Principal](images/hab0.jpeg)
 ![Habitación Principal](images/hab1.jpeg)
+![Habitación Principal](images/armario.jpeg)
+![Habitación Principal](images/armario1.jpeg)
 
 **¿Qué hay en la habitación principal?**
 La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
