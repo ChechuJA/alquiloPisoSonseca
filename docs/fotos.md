@@ -18,15 +18,35 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Terraza](images/Terraza.jpeg)
 ![Terraza](images/Terraza1.jpeg)
 ![Terraza](images/Terraza2.jpeg)
+![Terraza](images/terra0.jpeg)
 
 ### Salón
-![Salón](images/Salon.jpeg)
-![Salón](images/Salon1.jpeg)
+<!-- ![Salón](images/Salon.jpeg) -->
+<!-- ![Salón](images/Salon1.jpeg) -->
+![Salón](images/salon0.jpeg)
+![Salón](images/salon00.jpeg)
 ![Salón](images/sal.jpeg)
 
 **¿Qué hay en el salón?**
 Las fotos del salón no están actualizadas, ya que falta incluir el sofá chaise longue y si fuese necesario la televisión.
 
+### Habitación Principal
+<!-- ![Habitación Principal](images/Habitacion.jpeg) -->
+![Habitación Principal](images/hab0.jpeg)
+![Habitación Principal](images/hab1.jpeg)
+
+**¿Qué hay en la habitación principal?**
+La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
+
+### Despacho
+<!-- ![Despacho](images/Despacho.jpeg) -->
+![Despacho](images/despa.jpeg)
+<!-- ![Despacho](images/Despacho0.jpeg) -->
+<!-- ![Despacho](images/Despacho1.jpeg) -->
+![Despacho](images/Despacho2.jpeg)
+
+**¿Qué hay en el despacho?**
+El despacho está equipado con un cómodo sofá cama, ideal para momentos puntuales de visitas. Si fuera muy necesario, se podría convertir en otra habitación para compartir el piso, añadiendo una cama de 90 cm.
 
 ### Cocina
 ![Cocina](images/Cocina.jpeg)
@@ -42,30 +62,12 @@ Las fotos de la cocina no están actualizadas, ya que falta incluir el frigoríf
 ![Baño](images/Bano3.jpeg)
 ![Baño](images/Bano4.jpeg)
 
-### Habitación Principal
-<!-- ![Habitación Principal](images/Habitacion.jpeg) -->
-![Habitación Principal](images/hab0.jpeg)
-![Habitación Principal](images/hab1.jpeg)
-
-**¿Qué hay en la habitación principal?**
-La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
-
-
-### Patio Interior
-![Patio Interior](images/Patio.jpeg)
-
-### Despacho
-<!-- ![Despacho](images/Despacho.jpeg) -->
-![Despacho](images/Despacho0.jpeg)
-![Despacho](images/Despacho1.jpeg)
-![Despacho](images/Despacho2.jpeg)
-
-**¿Qué hay en el despacho?**
-El despacho está equipado con un cómodo sofá cama, ideal para momentos puntuales de visitas. Si fuera muy necesario, se podría convertir en otra habitación para compartir el piso, añadiendo una cama de 90 cm.
-
 ### Pasillo
 ![Pasillo](images/Pasillo.jpeg)
 ![Pasillo](images/Pasillo1.jpeg)
+
+### Patio Interior
+![Patio Interior](images/Patio.jpeg)
 
 ### Ascensor
 ![Ascensor](images/Ascensor.jpeg)
