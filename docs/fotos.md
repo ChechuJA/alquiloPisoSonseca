@@ -26,9 +26,11 @@ Para aquellos que trabajan desde casa, hay una habitación que funciona como des
 ![Salón](images/salon0.jpeg)
 ![Salón](images/salon00.jpeg)
 ![Salón](images/sal.jpeg)
+![Salón](images/salonsofa0.jpeg)
+![Salón](images/salonsofa1.jpeg)
 
 **¿Qué hay en el salón?**
-Las fotos del salón no están actualizadas, ya que falta incluir el sofá chaise longue y si fuese necesario la televisión.
+Las fotos del salón no están actualizadas, ya que falta incluir la televisión.
 
 ### Habitación Principal
 <!-- ![Habitación Principal](images/Habitacion.jpeg) -->
@@ -36,9 +38,10 @@ Las fotos del salón no están actualizadas, ya que falta incluir el sofá chais
 ![Habitación Principal](images/hab1.jpeg)
 ![Habitación Principal](images/armario.jpeg)
 ![Habitación Principal](images/armario1.jpeg)
+![Habitación Principal](images/colchon.jpeg)
 
 **¿Qué hay en la habitación principal?**
-La habitación principal cuenta con un colchón sin estrenar y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
+La habitación principal cuenta con un colchón (150x190) y dos almohadas individuales de diferentes conforts: una dura y otra blanda, para que puedas elegir la que mejor se adapte a tus necesidades.
 
 ### Despacho
 <!-- ![Despacho](images/Despacho.jpeg) -->
@@ -46,12 +49,19 @@ La habitación principal cuenta con un colchón sin estrenar y dos almohadas ind
 <!-- ![Despacho](images/Despacho0.jpeg) -->
 <!-- ![Despacho](images/Despacho1.jpeg) -->
 ![Despacho](images/Despacho2.jpeg)
+![Despacho](images/despacho1.jpeg)
+![Despacho](images/despacho2.jpeg)
 
 **¿Qué hay en el despacho?**
 El despacho está equipado con un cómodo sofá cama, ideal para momentos puntuales de visitas. Si fuera muy necesario, se podría convertir en otra habitación para compartir el piso, añadiendo una cama de 90 cm.
 
 ### Cocina
 ![Cocina](images/Cocina.jpeg)
+![Cocina](images/cocina1.jpeg)
+![Cocina](images/cocina2.jpeg)
+![Cocina](images/cocina3.jpeg)
+![Cocina](images/cocina4.jpeg)
+![Cocina](images/cocina 5.jpeg)
 <!-- ![Cocina](images/Cocina1.jpeg) -->
 <!-- ![Cocina](images/Cocina2.jpeg) -->
 
